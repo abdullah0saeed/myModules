@@ -1,3 +1,3 @@
-import { disabledBtn, enabledBtn } from "./changeBtnView";
+import { disabledBtn, enabledBtn } from "./modules/changeBtnView";
 
 export { disabledBtn, enabledBtn };
